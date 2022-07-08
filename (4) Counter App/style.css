@@ -1,0 +1,16 @@
+#counter-app {
+    text-align: center;
+  }
+span {
+    display: block; 
+    text-align: center; 
+    font-size: 50px;
+ }
+ button {
+    font-size: large;
+    background-color: black;
+    color: #fff;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-top: 20px;
+ }
